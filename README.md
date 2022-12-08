@@ -8,10 +8,9 @@ An embarrassing amount of time I'm going to work on improving....
 
 ---
 
-# Level 1 Study Plan
+# LeetCode 75 Study Plan - Level 1
 These are the exercises for [LeetCode's level 1 study plan](https://leetcode.com/study-plan/leetcode-75/?progress=xd10rjbg) I'll be completing.
-(Check the Level01 folder for the code I came up with)
-* to be updated as I go along
+* to be updated as I go along (check the Level01 folder for the code I came up with)
 
 ## Day 1: Prefix Sum
 ✅ [1480. Running Sum of 1d Array (Easy)](https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1)
