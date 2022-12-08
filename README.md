@@ -15,39 +15,48 @@ These are the exercises for LeetCode's level 1 study plan I'll be completing
 
 ## Day 1: Prefix Sum
 ✅ 1480. Running Sum of 1d Array (Easy)
+
 ✅ 724. Find Pivot Index (Easy)
 
 ## Day 2: String
 ✅ 205. Isomorphic Strings (Easy)
+
 ✅ 392. Is Subsequence (Easy)
 
 ## Day 3: Linked List
 21. Merge Two Sorted Lists (Easy)
+22. 
 206. Reverse Linked List (Easy)
 
 ## Day 4: Linked List
 876. Middle of the Linked List (Easy)
-142. Linked List Cycle II (Medium)
+877. 
+878. Linked List Cycle II (Medium)
 
 ## Day 5: Greedy 
 121. Best Time to Buy and Sell Stock (Easy)
+122. 
 409. Longest Palindrome (Easy)
 
 ## Day 6: Tree
 589. N-ary Tree Preorder Traversal (Easy)
-102. Binary Tree Level Order Traversal (Medium)
+590. 
+591. Binary Tree Level Order Traversal (Medium)
 
 ## Day 7: Binary Search
 704. Binary Search (Easy)
-278. First Bad Version (Easy)
+705. 
+706. First Bad Version (Easy)
 
 ## Day 8: Binary Search Tree
 98. Validate Binary Search Tree (Medium)
+99. 
 235. Lowest Common Ancestor of a Binary Search Tree (Medium)
 
 ## Day 9: Graph/BFS/DFS
 733. Flood Fill (Easy)
-200. Number of Islands (Medium)
+734. 
+735. Number of Islands (Medium)
 
 ## Day 10
 ## Day 11
