@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode - Level 1 Study Plan
 
 I want to upgrade my Python programming skills and decided to practice with LeetCode in my free time.
 My solutions will probably be messy and not follow best practice, but I'm hoping to get better along the way!
