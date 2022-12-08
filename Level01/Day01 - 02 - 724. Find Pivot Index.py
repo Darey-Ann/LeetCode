@@ -1,7 +1,7 @@
 # 724. Find Pivot Index
 # Time taken: 24 m 13 s
 
-# Submitted at 21 without the break statement. For testcase [-1,-1,0,0,-1,-1] this returned index 3 instead of the expected index 2.
+# Submitted at 21 without the break statement. For testcase [-1,-1,0,0,-1,-1] this kept going and returned index 3 instead of the expected index 2.
 
 class Solution(object):
     def pivotIndex(self, nums):
